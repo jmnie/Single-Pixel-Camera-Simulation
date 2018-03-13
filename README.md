@@ -1,6 +1,6 @@
-### Single-Pixel-Camera-Simulation
+# Single-Pixel-Camera-Simulation
 Year 2 Project, EEE department @ Liverpool
 
-# Project Blog
+### Project Blog
 
 http://singlepixelcamera2016.blogspot.co.uk/
